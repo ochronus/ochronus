@@ -12,7 +12,7 @@ $ uname -a
 Human csaba-okrona  #1 SMP PREEMPT RT 14 Dec 1979 14:17:56 +0000 x86_64
 
 $ cat /etc/profile
-DOMAIN=ochronus.online
+DOMAIN=leadership.garden
 GITHUB=ochronus
 TWITTER=ochronus
 HN=ochronus
